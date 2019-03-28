@@ -1,0 +1,62 @@
+Day 1:	
+Introductions and Course Expectations
+
+Day 2: 
+Java Intro 
+Overview 
+Hello World program
+
+Day 3:
+Variables
+Data Types
+Operators
+Keywords
+
+
+Day 4 & 5:
+Class and Object
+Simple Class and Object
+Creating Object to accesss Class members
+Assigning values to attributes(fields) using object(reference) 
+
+
+Day 6:
+Assigning values ti attributes(fields) using method and parameters
+Control Statements
+	Simple If condition
+	If Else Condition
+
+Day 7: 
+Control Statements
+	If Else If Ladder
+	Nested If
+	Switch and Case
+Looping Statements
+	For Loop
+
+Day 8:
+Looping Statements
+	For Loop Continuation
+	While loop
+	Do-While Loop
+	Break n Continue
+
+Day 9:
+Java Arrays
+	Array Declaration, Instantiation
+	Assigning vales to array elements
+	Reading/ Traversing array
+		using for loop
+		using For Each
+	Default values
+	IndexOutofBound Exception
+Day 10:
+	Multidimensional Array
+	Passing an array to a method
+	Return an array from a method
+	Arrays Utility Class
+	
+
+
+	
+
