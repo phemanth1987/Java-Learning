@@ -3,16 +3,16 @@ package examples.java;
 public class SwitchExample {
 
 	public static void main(String[] args) {
-		String color = "Blue";
+		String color = "BlUe";
 		
-		switch (color) {
-		case "Blue":
+		switch (color.toLowerCase()) {
+		case "blue":
 			System.out.println("Color is Blue");			
 			break;
-		case "Red":
+		case "red":
 			System.out.println("Color is Red");			
 			break;
-		case "Green":
+		case "green":
 			System.out.println("Color is Green");			
 			break;
 

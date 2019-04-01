@@ -56,6 +56,26 @@ Day 10:
 	Return an array from a method
 	Arrays Utility Class
 	
+Day 11:
+	Strings
+	Immutable
+	String Manpulation
+		concat()
+		contains()
+		equals()
+		eqaulsIgnoreCase()
+		endWith()
+		indexOf()
+		length()
+		replace()
+		split()
+		startsWith()
+		substring()
+		trim()
+		toLower(), toUpper()
+	
+		
+
 
 
 	
