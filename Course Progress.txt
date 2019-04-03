@@ -73,6 +73,21 @@ Day 11:
 		substring()
 		trim()
 		toLower(), toUpper()
+
+Day 12:
+	Constructor
+	Inheritance
+		Simple Inheritance
+		Multilevel
+
+Day 13: 
+	Super
+	Aggregation
+	Polymorphism
+		Method Overloading
+Day 14:
+	Method Overriding
+
 	
 		
 
