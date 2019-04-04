@@ -15,7 +15,7 @@ class CalcAdv extends Calc{
 	}
 }
 
-class CalcVer2 extends CalcAdv {
+class CalcVer2 extends CalcAdv{
 	public int multiply(int i, int j) {
 		return i*j;
 	}

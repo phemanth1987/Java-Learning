@@ -18,14 +18,17 @@ public class MethodOverlaoding {
 class Adder{  
 	public int add(int i, int j) {
 		return i+j;
-	}
+	}		
+	
 	
 	//Method Overloading using different parameters
 	public int add(int i, int j, int k) {
 		return i+j+k;
 	}
-	
+	//Method overloading using same no. of parameters but different data type
 	public double add(double i, double j) {
 		return i+j;
 	}  
 }  
+
+
