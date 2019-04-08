@@ -96,7 +96,14 @@ Day 15:
 	Encapsulation
 		Getters
 		Setters
-
+Day 16:
+	Exception Handling
+		try
+		catch
+		finally
+		throw
+		throws
+	
 
 
 	
