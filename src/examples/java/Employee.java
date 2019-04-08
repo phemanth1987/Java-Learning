@@ -35,6 +35,10 @@ public class Employee {
 	public void greet() {
 		System.out.println("Good Morning!! I am " + name);
 	}
+	
+	protected void work() {
+		System.out.println("I am working..");
+	}
 			
 	public static void main(String[] args) {
 		//Object Syntax 
@@ -65,6 +69,7 @@ public class Employee {
 		System.out.println(john.age + " " + john.name);
 		//Calling greet() method after value assignment
 		john.greet();
+		
 
 	}
 

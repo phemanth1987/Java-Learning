@@ -14,6 +14,12 @@ public class ProgrammerChild extends EmployeeParent {
 		String[] langs = {"Java", "C#"};
 		ProgrammerChild obj = new ProgrammerChild(1, "Mike", "Phone1", langs);
 		System.out.println(obj.id+ " "+ obj.name+" "+ obj.phno+" "+obj.progLanguages.toString());
+		
+		
+		Employee emp = new Employee();
+		emp.work();
+		
+	
 
 	}
 
